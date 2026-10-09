@@ -10,13 +10,13 @@ A personal proof of concept, not an official release. It bundles:
 In Claude Code (v2.1.275 or later):
 
 ```text
-/plugin install kite --marketplace Harinder441/kite-claude-plugin
+/plugin install kite --marketplace HarinderSkailama/kite-claude-plugin
 ```
 
 Or from your shell:
 
 ```bash
-claude plugin marketplace add Harinder441/kite-claude-plugin
+claude plugin marketplace add HarinderSkailama/kite-claude-plugin
 claude plugin install kite@kite-poc
 ```
 
