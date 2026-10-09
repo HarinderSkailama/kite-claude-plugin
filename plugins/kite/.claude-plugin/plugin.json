@@ -1,0 +1,8 @@
+{
+  "name": "kite",
+  "displayName": "Kite (POC)",
+  "version": "0.1.0",
+  "description": "Connects Claude Code to the Kite MCP and teaches Claude how to analyze Kite campaign performance",
+  "author": { "name": "Harinder" },
+  "license": "MIT"
+}

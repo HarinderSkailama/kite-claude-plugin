@@ -1,0 +1,12 @@
+{
+  "name": "kite-poc",
+  "description": "Proof-of-concept marketplace for the Kite Claude Code plugin",
+  "owner": { "name": "Harinder" },
+  "plugins": [
+    {
+      "name": "kite",
+      "source": "./plugins/kite",
+      "description": "Kite MCP connection plus a campaign-analysis skill"
+    }
+  ]
+}
